@@ -10,7 +10,7 @@ sudo apt install -y python3-pyqt5.qsci python3-pyqt5.qtmultimedia python3-pyqt5.
 ```
 If you have installed any version >= 5.11.3 of pyqt5, you may not need these code<br/>
 ### Install other packages
-Download all the file in the responsity <git@github.com:chengtianle1997/PyQt5_WebEngine_Debian.git><br/>
+Download all the file in the responsity [PyQt5_WebEngine_Debian](git@github.com:chengtianle1997/PyQt5_WebEngine_Debian.git)<br/>
 Unzip and Open the folder in command line, and type in:<br/>
 ```
 bash install_webengine.sh
